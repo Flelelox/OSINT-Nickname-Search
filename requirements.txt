@@ -1,0 +1,13 @@
+PySide6
+aiohttp
+httpx
+beautifulsoup4
+rapidfuzz
+playwright
+lxml
+pillow
+reportlab
+jinja2
+aiosqlite
+orjson
+rich
